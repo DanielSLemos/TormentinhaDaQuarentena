@@ -32,3 +32,14 @@ Seria possível seguir um modelo parecido, deixando algumas inputs para que o us
 FLUXOGRAMA:
 
 ![Screenshot_9](https://user-images.githubusercontent.com/69585927/136122174-04ec1b1c-e1b1-4962-a862-133ec5fbc16c.png)
+
+_______________________________________
+#Etapa 2 - 06/10/2021
+
+Diagrama UML: Confesso que sei muito pouco de criação de diagrama UML, portanto me inspirei drásticamente no diagrama da atividade da N1 que valia 5 pontos.
+
+![Screenshot_10](https://user-images.githubusercontent.com/69585927/136302768-0ab129d3-75fd-48df-884e-a45e82e9709a.png)
+
+A ideia original seria colocar os atributos do personagem na classe "Personagem", porém os atributos sendo: Força, Destreza, Constituição, Inteligência, Sabedoria e Carisma. Eu pensei que fosse ser atributos demais para serem colocados em uma única classe, portanto resolvi tirá-los, mas se fosse fazer com eles, todos seriam tipo byte e privados (com seus métodos getters e setters).
+
+Também não tenho certeza de qual seria o número ideal de classes, acredito que, como o sistema é um tanto similar ao realizado na tarefa da Fila de Atendimento na N1, acabei por deixar o mesmo número de classes.
