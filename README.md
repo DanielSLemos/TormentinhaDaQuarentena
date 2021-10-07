@@ -43,3 +43,7 @@ Diagrama UML: Confesso que sei muito pouco de criação de diagrama UML, portant
 A ideia original seria colocar os atributos do personagem na classe "Personagem", porém os atributos sendo: Força, Destreza, Constituição, Inteligência, Sabedoria e Carisma. Eu pensei que fosse ser atributos demais para serem colocados em uma única classe, portanto resolvi tirá-los, mas se fosse fazer com eles, todos seriam tipo byte e privados (com seus métodos getters e setters).
 
 Também não tenho certeza de qual seria o número ideal de classes, acredito que, como o sistema é um tanto similar ao realizado na tarefa da Fila de Atendimento na N1, acabei por deixar o mesmo número de classes.
+
+_____________________________________________
+# Review Etapa 2 - 07/10/2021
+Eu também acredito que esteja bom, só analisa, depois quando codar se a classe main não ficará muito extensa, não que seja problema, mas está ficando muito bom.
